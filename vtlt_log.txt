@@ -1,0 +1,96 @@
+Log successfully created!
+[6/14/2015 15:19:55]
+[6/14/2015 15:20:38]
+Generating light trail for "in/fps gamers will understand.gif"... 
+Generation successful! Output name is "out/fps gamers will understand.jpg".
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+Generating light trail for "in/VHhUMNa.jpg"... 
+Generation successful! Output name is "out/VHhUMNa.jpg".
+[6/14/2015 15:21:52]
+Generating light trail for "in/fps gamers will understand.gif"... 
+Generation successful! Output name is "out/null".
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+Generating light trail for "in/VHhUMNa.jpg"... 
+Generation successful! Output name is "out/null".
+[6/14/2015 15:22:57]
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 15:23:29]
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 15:30:20]
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 15:33:52]
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 15:42:12]
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 15:44:37]
+Generating light trail for "in/no_beat_toss.mp4"... 
+Generation successful! Output name is "out/no_beat_toss.jpg".
+Generating light trail for "in/triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 23:27:28]
+[6/14/2015 23:28:42]
+[6/14/2015 23:29:30]
+[6/14/2015 23:33:0]
+[6/14/2015 23:39:14]
+[6/14/2015 23:41:46]
+[6/14/2015 23:42:6]
+[6/14/2015 23:45:3]
+[6/14/2015 23:47:34]
+[6/14/2015 23:49:0]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\one_hand_spiral.mp4"... 
+Generation successful! Output name is "out/one_hand_spiral.jpg".
+[6/14/2015 23:50:32]
+Generating light trail for "C:\Users\Ashwin\Videos\Light Painting Stuff\triquetra.mp4"... 
+Generation successful! Output name is "out/triquetra.jpg".
+[6/14/2015 23:52:3]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\toss_stall.mp4"... 
+Generation successful! Output name is "out/toss_stall.jpg".
+[6/15/2015 0:3:22]
+[6/15/2015 0:5:58]
+[6/15/2015 0:9:39]
+[6/15/2015 0:10:15]
+[6/15/2015 0:10:30]
+[6/15/2015 0:11:25]
+[6/15/2015 0:11:33]
+[6/15/2015 0:12:21]
+[6/15/2015 0:13:9]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\no_beat_toss.mp4"... 
+Generation successful! Output name is "C:\JAVA\VideoToLightTrail\out\no_beat_toss.jpg".
+[6/15/2015 0:17:35]
+[6/15/2015 0:21:16]
+[6/15/2015 15:52:28]
+[6/15/2015 15:53:32]
+[6/15/2015 15:53:40]
+[6/15/2015 15:56:34]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\no_beat_toss.mp4"... 
+Generation successful! Output name is "C:\JAVA\VideoToLightTrail\out\no_beat_toss.jpg".
+[6/15/2015 15:58:20]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\toss_stall.mp4"... 
+Generation successful! Output name is "C:\JAVA\VideoToLightTrail\out\toss_stall.jpg".
+[6/15/2015 15:58:46]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\toss_stall.mp4"... 
+Generation successful! Output name is "C:\JAVA\VideoToLightTrail\out\toss_stall.jpg".
+[6/15/2015 16:25:32]
+Generating light trail for "C:\JAVA\VideoToLightTrail\in\triquetra.mp4"... 
+Generation successful! Output name is "C:\JAVA\VideoToLightTrail\out\triquetra.jpg".
